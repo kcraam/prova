@@ -1,0 +1,32 @@
+ - Falta d'interès pels nostres problemes:
+	- Desprès d'haver dedicat tot el temps que ha calgut en cada incident, ens trobem amb:
+		- 0h extres pagades des de gener.
+		- Se'ns fan propostes il·legals.
+		- Busques sempre el mes barat pel CAR, en detriment nostre.
+	- Falta d'interès per les nostres condicions de treball:
+		- El despatx esta a ≥ 29ºC a les 8 del matí i a ≥ 31ºC per la tarda, però "jo ja estic be".
+	- Ignores les nostres queixes referents a altres treballadors.
+	- Tens una resposta desmesurada davant les queixes d'altres treballadors envers nosaltres. Ni ens creus, ni ens defenses.
+	
+ - Falta de confiança:
+	- L'opinió de qualsevol altre sempre es mes encertada que la nostra. No importa qui sigui (practiques, estrany, comercial amb interessos...).
+	- Sempre hem de justificar les nostres opinions, de varies maneres i hem de rebatre les dels altres.
+	- Les feines importants sempre s'encarreguen a 3ers. Nosaltres nomes ens encarreguem del dia a dia (tal com deia l'informe d'activitats "Assegurar el correcte funcionament de tots els sistemes informàtics del CAR"). Però resulta que sempre acabem fent corre-cuita i dedicant hores extres que no es paguen ni valoren, la nostra feina i la dels altres.
+	- Nomes es te en compte la nostra opinió / valoració quan s'han descartat totes les altres.
+	- No se'ns forma en les noves versions de sistemes ni en els nous equips que es compren. Si hi ha algo que no sabem fer, s'encarrega a un 3er que ho faci. I si de cas que desprès ens digui com ho ha fet.
+
+ - Direcció erràtica
+	- No se'ns ajuda durant les crisis (en la restauració de la xarxa ens va ajudar el Julio Gismero).
+	- Se'ns fa quedar malament davant dels proveïdors i de 3ers: pactem una línia d'actuació i es canvia de sobte sense que ho sapiguem.
+	- Creiem que l'ordre de prioritats no es correcte: hem d'interrompre feines importants per resoldre problemes menors que afecten a 1 sol usuari.
+	- Fas de tècnic júnior resolent problemes menors, i desprès tenim problemes amb les comandes i les aprovacions de direcció.
+	- No hi ha futur: qualsevol possibilitat futura sempre es out-sourcing i desprès no es realitza.
+	- Se'ns assignen feines d'altres unitats.
+	
+Resum
+
+ - No s'ens te en compte per res.
+ - No es confia en nosaltres.
+ - No tenim espectatives de promoció.
+ - No tenim espectatives d'apendre ni millorar.
+
