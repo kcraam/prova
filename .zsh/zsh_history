@@ -1,0 +1,537 @@
+tmux ls
+tmux attach 1
+tmux attach -t 1
+tmux new-session -d \; split-window -d \;
+vim
+vim
+vim firma.html
+vim
+vi whats.pl
+tmux new-session -d 'vi web.pl' \; split-window -d \; attach
+tmux new-session
+exit
+tmux new-session \; split-window \;attach
+exit
+tmux split-window
+clear
+vim web.pl
+./web.pl
+ls -l web.pl
+chmod 764 web.pl
+./web.pl
+less web.pl
+tmux ls
+tmux kill-session -t 3
+tmux ls
+tmux attach -t 2
+exit
+tmux ls
+tmux attach -t 1
+exit
+exit
+tmux ls
+tmux attach -t 0
+tmux kill-session -t 0
+ps
+tmux ls
+vi .zshrc
+vim .tmux.conf
+vim .tmux.conf
+tmux new-session -d 'vi web.pl' \; split-window -d \; attach
+echo $TERM
+tmux kill-session -t 0
+vi .zshrc
+export TERM=TERM=screen-256color-bce
+export TERM=TERM=screen-256color
+vi .zshrc
+vi .zshrc
+vim .zshrc
+bash
+vim .zshrc 
+exit
+mate .zshrc
+vim .zshrc
+echo $TERM
+export $TERM=vt100
+export TERM=vt100
+vim .zshrc
+tmux
+vim web.pl
+echo $TERM
+ps
+exit
+export TERM=xterm-color
+vim web.pl
+tmux new-session -d 'vi web.pl' \; split-window -d \; attach
+vi .zshrc
+tmux kill-session -t 0
+tmux ls
+tmux kill-session -t 1
+tmux new-session -d 'vi web.pl' \; split-window -d \; attach
+echo $TERM
+cat .zshrc
+q!
+tmux new-session -d 'vi web.pl' \; split-window -d \; attach
+tmux ls
+tmux new-window -d 'vi web.pl' \; split-window -d \; attach
+tmux split-window
+vim web.pl
+./web.pl
+echo "car.edu" >| url.txt
+./web.pl
+./web.pl | less
+./web.pl | less
+tmux ls
+tmux attach -t 0
+./web.pl
+./web.pl
+./web.pl
+./web.pl
+./web.pl | less
+who
+tmux ls
+who
+ssh -l marck 87.219.200.231
+cd /Users/mcollado/Documents/CAR/TAE/Rack\ Analogics\ GAM-GAF
+ls
+ffmpeg -codecs
+ffprobe
+ffprobe -help
+ffprobe -pretty -show-format Cam001.AVI
+ffprobe -pretty -show_format Cam001.AVI
+ffprobe -pretty -show_format -show_streams Cam001.AVI
+ffmpeg -v
+su -
+ssh 192.168.1.140
+ssh 192.168.1.178
+ssh www.car.edu
+./web.pl
+./web.pl
+./web.pl
+tmux neww -
+exit
+tmux new-session -d 'zsh -' \; split-window -d \; attach
+tmux neww -d 'zsh -' \; split-window -d \; attach
+tmux new-window \; split-window -d
+vim web.pl
+tmux ls
+tmux kill-window -t:2
+tmux kill-window -t0 :2
+tmux kill-window -t 0:2
+exit
+exit
+exit
+tmux new-session -d \; split-window -d \; attach
+exit
+exit
+tmux new-session -d \; split-window -v -d \; attach
+exit
+exit
+tmux new-session -d \; split-window -v \; attach
+tmux ls
+tmux kill-session -t 0
+tmux new-session -d -v \; split-window -v \; attach
+tmux new-session -v \; split-window -v \; attach
+tmux new-session -d \; split-window -v \; attach
+exit
+tmux splitw -v -t 0
+exit
+tmux splitw -h -t 0
+ssh www.car.edu
+tmux splitw -v -t 0
+vim web.pl
+./web.pl
+./web.pl
+vim .tmux.conf
+vim .tmux.conf
+vim .tmux.conf
+exit
+ls
+vim transc_v3\ còpia.pl
+vim .tmux.conf
+exit
+ssh mcollado@www.car.edu
+ps
+tmux ls
+tmux -t 0 attach
+tmux attach -t 0
+who
+date
+date -h
+date -r
+date -f ddmmyy
+date -n
+date -u
+date -l
+dig -x 192.168.129.203
+whois 192.168.129.203
+whois 85.58.101.55
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+cñear
+clear
+cd
+ls Vide*
+ls video001_3_2.mp4
+ffprobe -h
+ffprobe -show_streams video001_3_2.mp4
+ffmpeg -codecs
+ffmpeg -codecs | grep -i jpeg
+ffmpeg -i video001_3_2.mp4 -vcodec mjpeg -f avi video0.avi
+ffmpeg -i video001_3_2.mp4 -vcodec mjpeg -b 32k -f avi video0.avi
+ffmpeg -i video001_3_2.mp4 -vcodec mjpeg -b 32k -f avi -y video0.avi
+ffmpeg -i video001_3_2.mp4 -vcodec mjpeg -b 32000k -f avi video0.avi
+ffprobe video001_3
+ffprobe video0.avi
+ffprobe -show_streams video0.avi
+cd /Users/mcollado/Documents/CAR/TAE/Rack\ Analogics\ GAM-GAF/Videos
+ls
+ffmpeg -i Cam001_C.AVI -vcodec mjpeg -b 32000k -f avi cam001_2.avi
+ffmpeg -i Cam001_C.AVI -vcodec mjpeg -b 16000k -f avi cam001_2.avi
+ffmpeg -i Cam001_C.AVI -vcodec mjpeg -b 16000k -f avi -y cam001_2.avi
+ffmpeg -codecs | grep -i jpeg
+ffmpeg -codecs | grep -i DVC
+ffmpeg -codecs | grep -i DV
+ffmpeg -i Cam001_C.AVI -vcodec dvvideo -f avi -y cam001_2.avi
+ffmpeg -i cam001_2.avi -vcodec x264 -f avi -y cam001_3.avi
+ffmpeg -codecs | grep -i 264
+ffmpeg -i cam001_2.avi -vcodec libx264 -f mp4 -y cam001_3.mp4
+ffmpeg -i Cam001_C.AVI -vcodec dvvideo -b 10k -f avi -y cam001_2.avi
+ffprobe -show_streams cam001_2.avi
+ls -lh cam001_*
+ffmpeg -i Cam001_C.AVI -vcodec dvvideo -b 10k -f avi -y cam001_2.avi
+ffmpeg -i Cam001_C.AVI -vcodec dvvideo -b 5k -f avi -y cam001_2.avi
+ps -p $$
+tmux ls
+tmux -t 0
+tmux attach -t 0
+exit
+vim .vimrc
+vim .vimrc
+exit
+vim .tmux.conf
+tmux ls
+tmux attach -t 0
+tmux ls
+tmux dettach
+tmux detach
+tmux ls
+exit
+ssh -l admin fw.car.loc
+exit
+exit
+exit
+exit
+tmux new-session -d \; split-window -v \; attach
+vi .tmux.conf
+vi .vimrc
+vi web.pl
+mkdir -p ~/.vim/autoload ~/.vim/bundle; curl -so ~/.vim/autoload/pathogen.vim https://raw.github.com/tpope/vim-pathogen/HEAD/autoload/pathogen.vim
+ls -l .vi
+ls -l .vim
+vim .vim
+vim .vimrc
+vim .vimrc
+ls
+cd .vim
+ls
+ls autoload
+ls autoload
+vim .vimrc
+ls
+ls plugin
+cp
+vim .vimrc
+ssh 192.168.1.13
+vi .ssh/known_hosts
+ssh 192.168.1.13
+tmux new-session -d \; attach
+tmux ls
+ssh 192.168.1.13
+ssh 192.168.1.13
+exit
+ssh 192.168.1.13
+ssh 192.168.1.13
+tmux ls
+cd
+cd
+tmux ls
+tmux ls
+tmux ls
+tmux attach -t 0
+exit
+tmux ls
+tmux attach -t 0
+vi
+port search trac
+find / -name vmdk*
+man find
+find / -iname vmdk*
+find / -iname *vmdk*
+sudo find / -iname *vmdk*
+man ales
+man alees
+ales
+man alees
+!
+aless -h
+cd /Library/Application Support/VMware Fusion
+cd "/Library/Application Support/VMware Fusion"
+ls
+cd /Applications/VMware\ Fusion.app
+ls
+ls
+cd Contents
+ls
+ls MacOS
+ls MacOSVM
+ls MacOS/VMware\ Fusion
+ls -l MacOS/VMware\ Fusion
+ls -l MacOS/VMware\ Fusion/
+ls
+cd /Applications/VMware\ Fusion.app/Contents/Library
+ls
+./vmware-vdiskmanager -h
+ssh -l root vserver2.car.loc
+ssh -l marck 188.79.104.191
+cat .tmux.conf
+ls
+cd /Users/mcollado/Dropbox/Projectes/transcodig/transc
+ls
+vim transc_v3.pl
+ls
+vim transc_v2.1.pl
+./transc_v2.1.pl -i /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal-avi -o /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal -m 480 -s mp4
+vim transc_v2.1.pl
+./transc_v3.pl -i /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal-avi -o /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal -m 480 -s mp4
+ls
+./transcode.pl -i /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal-avi -o /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal -m 480 -s mp4
+ls -la
+chmod 764 transcode.pl
+./transcode.pl -i /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal-avi -o /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal -m 480 -s mp4
+vi transcode.pl
+./transcode.pl -i /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal-avi -o /Volumes/MacHD2/Downloads/Neon\ Genesis\ Evangelion/Evangelion.Renewal -m 480 -s mp4
+./transcode.pl -i "/Volumes/MacHD2/Downloads/Neon Genesis Evangelion/Evangelion.Renewal-avi" -o "/Volumes/MacHD2/Downloads/Neon Genesis Evangelion/Evangelion.Renewal" -m 480 -s mp4
+tmux ls
+tmux attach -t 0
+exit
+ssh 192.168.1.13
+telnet helsinki.car.edu 2399
+grep 2399 /etc/services
+grep -i odbc /etc/services
+man grep
+vim Desktop/Track-031512\ 71212.kml
+telnet helsiki.car.edu 2399
+telnet helsinki.car.edu 2399
+ssh www.pafes.car.edu
+clear
+ssh www.pafes.car.edu
+ssh www.pafes.car.edu
+dig 84.88.95.244
+dig axis-00408cc56d0c.local
+dig axis-00408cc56d0c.local @localhost
+ping 192.168.0.90
+su -
+ls
+ls -la
+ls -la dh*
+su -
+su -
+ps
+ps awx
+screen -list
+sudo kill -9 95513
+ps awx
+screen -list
+screen /dev/tty.usbmodemfd411 9600
+uname -a
+ssh -l admin 192.168.2.45
+cd /Users/mcollado/Dropbox/Projectes/transcodig/transc
+ls
+vim transcode.pl
+tmux new-session
+vim transcode.pl
+stoppedjobs
+man time
+vim
+vim stopwatch.pl
+tmux list
+tmux ls
+tmux new attach -t 1
+tmux new attach
+tmux attach -t 0
+cd
+vi
+cd
+clear
+chmod 764 stopwatch.pl
+./stopwatch.pl
+./stopwatch.pl
+./stopwatch.pl
+ps
+kill 97162
+./stopwatch.pl
+ps
+kill 5258
+vi stopwatch.pl
+vim st2.pl
+chmod 764 st2.pl
+./st2.pl
+su -
+cat .zshrc
+./st2.pl
+vi st2.pl
+cd
+vi stopwatch.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+chmod 764 primi.pl
+./primi.pl -p 25
+./primi.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+./st2.pl
+ffprobe -h
+ffprobe -show-streams Desktop/Capture.mp4
+ffprobe -show_streams Desktop/Capture.mp4
+ffprobe -show_streams Desktop/Capture.mp4 | less
+clear
+whereis vlc
+ls /Applications/VLC.app/Contents/MacOS/bin
+/Applications/VLC.app/Contents/MacOS/VLC "http://root:axis@192.168.2.104/mjpg/video.mjpg"
+./st2.pl
+/Applications/VLC.app/Contents/MacOS/VLC -h
+ffprobe -show_streams Desktop/Capture.mp4 | less
+ffprobe -show_streams /Users/mcollado/Desktop/vlc-output.mov
+ffprobe -show_streams /Users/mcollado/Desktop/vlc-output.mp4
+ffprobe -show_streams /Users/mcollado/Desktop/vlc-output2.mp4
+/Applications/VLC.app/Contents/MacOS/VLC -h
+/Applications/VLC.app/Contents/MacOS/VLC -H
+/Applications/VLC.app/Contents/MacOS/VLC vlc -I dummy --run-time=20 http://root:axis@192.168.2.104/mjpg/video.mjpg --sout 'name=/Users/mcollado/Desktop/vlc-output3.mp4'
+/Applications/VLC.app/Contents/MacOS/VLC vlc -I dummy --run-time=20 http://root:axis@192.168.2.104/mjpg/video.mjpg --sout file/muxer:/Users/mcollado/Desktop/vlc-output3.mp4
+/Applications/VLC.app/Contents/MacOS/VLC --run-time=20 http://root:axis@192.168.2.104/mjpg/video.mjpg --sout file/muxer:/Users/mcollado/Desktop/vlc-output3.mp4
+kill 15907
+cd
+kill -9 15907
+/Applications/VLC.app/Contents/MacOS/VLC -vvv cvlc --run-time=20 http://root:axis@192.168.2.104/mjpg/video.mjpg --sout file/muxer:/Users/mcollado/Desktop/vlc-output3.mp4
+ffprobe -show_streams /Users/mcollado/Desktop/vlc-output3.mp4
+./st2.pl
+clear
+clear
+./st2.pl
+cd
+cd .vim/
+ls
+ls plugin
+tmux ls
+tmux attach -t 0
+tmux new-session
+vim
+s
+ls
+cd plugin
+git clone https://github.com/scrooloose/nerdtree.git
+vim prova-vim.txt
+vim prova-vim.txt
+vim
+ls
+ls -la
+vim ../.vimrc
+cd
+vim .vimrc
+cd .vim
+ls
+ls plugin
+ls bundle
+vim
+tmux ls
+tmux -t 2 -s vim
+tmux attach -t 2
+tmux ls
+tmux attach -t 0
+tmux ls
+tmux attach -t Practica-vim
+ssh syslog.car.loc
+ping syslog.car.loc
+ps
+kill 19726
+ssh syslog.car.loc
+ps | grep ssh
+kill 19926
+man ssh
+ifconfig
+ifconfig | less
+su -
+ssh syslog.car.loc
+less .bash_profile
+cd
+less .bash_profile
+less .bash_profile
+ssh nms.car.loc
+ssh nms.car.loc
+vi
+clear
+dig -x 192.168.2.17
+ssh-keygen -t rsa -C marck@silmak.com
+less /Users/mcollado/.ssh/id_rsa
+ssh-keyscan /Users/mcollado/.ssh/id_rsa
+man ssh-keyscan
+exit
+exit
+ssh -l admin sw_ti_jes.car.loc
+ssh -l admin sw-ti-jes.car.loc
+exit
+: 1332763086:0;ls
+: 1332763098:0;vim
+: 1332769532:0;ls /Applications/Wireshark
+: 1332769538:0;ls /Applications/
+: 1332769584:0;ls /
+: 1332769592:0;ls /Applications
+: 1332769642:0;ls /Applications
+: 1332769657:0;whereis wireshark
+: 1332769666:0;su -
+: 1332772992:0;vim
+: 1332773693:0;arping
+: 1332773701:0;man arping-scan-net
+: 1332773715:0;arping-scan-net -h
+: 1332773722:0;arping-scan-net --help
+: 1332773762:0;arping-scan-net 00:1c:f9:82:ac:89
+: 1332773766:0;su -
+: 1332774887:0;ssh -l admin 192.168.2.185
+: 1332844745:0;cat .ssh/id_rsa.pub
+: 1332845228:0;ssh syslog.car.loc
+: 1332845267:0;ssh syslog.car.loc
+: 1332860891:0;ps
+: 1332860896:0;tmux ls
+: 1332860912:0;tmux attach -t Practica-vim
+: 1332860934:0;clear
+: 1332860991:0;ssh -l marck 188.79.82.14
+: 1332861104:0;cd
+: 1332861108:0;ls -la
+: 1332861114:0;cat .gitconfig
+: 1332861172:0;pwd
+: 1332861186:0;git clone https://kcraam@github.com/kcraam/prova.git
+: 1332861198:0;cd pro
+: 1332861201:0;cd prova
+: 1332861202:0;ls
+: 1332861205:0;ls -la
+: 1332861212:0;cd ..
+: 1332861237:0;cp -rf .vim* prova
+: 1332861258:0;cp -rfv .zsh* prova

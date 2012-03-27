@@ -1,3 +1,4 @@
+call pathogen#infect('plugin')
 syn on
 "Allow switching buffers without writing to disk
 set hidden

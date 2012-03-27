@@ -1,0 +1,1334 @@
+# Aquest fitxer viminfo ha estat generat pel Vim 7.3.
+# El podeu editar si aneu amb compte!
+
+# Valor de 'encoding' en el moment d'escriure aquest fitxer
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Últim Patró de Cerca:
+~Msle0~/\<You\>
+
+# Últim Substitute Patró de Cerca:
+~MSle0&\s*\n
+
+# Última cadena substituïda:
+$
+
+# Historial d'ordres (de més a menys recent):
+:q!
+:version
+:help clipboard
+:q
+:e ../prova.txt
+:! ls
+:help clipboard.txt
+:help windows.txt
+:w!
+:helptags
+:w prova-vim.txt
+:NERDTree
+:! ls -l
+:vsp
+:sv
+:sp
+:! uname -a
+:x!
+:colorscheme
+:set nu
+
+# Historial de cadenes cercades (de més a menys recent):
+? \<You\>
+? \<sub-menu-priority\>
+? \<that\>
+? \<zstyle\>
+?/cpan
+?/dns1
+?/nsi3
+? }
+?/\$pos
+?/&
+?/syslog
+?/\.2\.42
+?/95\.25\ 
+?/95\.25
+?/\.25
+?/25
+?/181
+? \s*\n
+?/\.1\.5
+?/8.1-RELEASE
+
+# Historial d'expressions (de més a menys recent):
+
+# Historial de línies d'entrada (de més a menys recent):
+
+# Historial de línies d'entrada (de més a menys recent):
+
+# Registres:
+""0	LINE	0
+	There is a special register for storing this selection, it is the "*
+	register.  Nothing is put in here unless the information about what text is
+	selected is about to change (e.g. with a left mouse click somewhere), or when
+	another application wants to paste the selected text.  Then the text is put
+	in the "* register.  For example, to cut a line and make it the current
+	selection/put it on the clipboard: >
+"1	CHAR	0
+	"
+"2	LINE	0
+	ding Trac 0.12.2 to easy-install.pth file
+	Installing trac-admin script to /usr/local/bin
+"3	CHAR	0
+	Ad
+"4	CHAR	0
+	g
+"5	CHAR	0
+	 
+"6	LINE	0
+	Installing 
+"7	LINE	0
+	Installing tracd script to /usr/local/bin
+"8	CHAR	0
+	 
+"9	CHAR	0
+	 
+"j	CHAR	0
+	jkdkdkdj:q!kdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkukukukukdkdkdkdkdkd
+"-	CHAR	0
+	0
+
+# Marques de fitxer:
+'0  1  0  ~/prova.txt
+'1  7  0  ~/.vimrc
+'2  1  0  ~/.vim/.vimrc
+'3  1  0  ~/.vim/prova-vim.txt
+'4  284  0  ~/.ssh/known_hosts
+'5  1  0  ~/.vimrc
+'6  2  5  ~/.vimrc
+'7  8  0  ~/.vim
+'8  1  0  ~/web.pl
+'9  27  0  ~/.vimrc
+
+# Llista de salts (de més a menys recent):
+-'  1  0  ~/prova.txt
+-'  7  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  1  0  ~/.vim/.vimrc
+-'  1  0  ~/.vim/prova-vim.txt
+-'  284  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/known_hosts
+-'  2  5  ~/.vimrc
+-'  36  0  ~/.vimrc
+-'  8  0  ~/.vim
+-'  1  0  ~/web.pl
+-'  27  0  ~/.vimrc
+-'  26  0  ~/.vimrc
+-'  1  0  ~/.tmux.conf
+-'  13  25  ~/web.pl
+-'  1  0  ~/.zshrc
+-'  13  0  ~/.zshrc
+-'  1  0  /private/etc/passwd
+-'  14  0  ~/.zshrc
+-'  8  0  ~/.zshrc
+-'  1  0  ~/.zshenv
+-'  31  0  ~/.zsh/zshrc.d/111_environment.options.zsh
+-'  1  0  ~/.zsh/zshrc.d/111_environment.options.zsh
+-'  18  11  ~/ip.txt
+-'  1  0  ~/ip.txt
+-'  17  16  ~/Documents/Repositoris/network/trunk/t_folder/t1.pl
+-'  1  0  ~/Documents/Repositoris/network/trunk/t_folder/t1.pl
+-'  83  45  ~/Documents/Repositoris/network/trunk/t_folder/t1.pl
+-'  8  0  ~/.zsh
+-'  33  0  ~/.bash_profile
+-'  1  0  ~/.bash_profile
+-'  1  0  /private/etc/bashrc~orig
+-'  1  0  /private/etc/bashrc
+-'  34  0  ~/.bash_profile
+-'  87  4  ~/b2z.pl
+-'  1  0  ~/b2z.pl
+-'  103  8  ~/b2z.sh
+-'  1  0  ~/b2z.sh
+-'  117  0  ~/.ssh/known_hosts
+-'  87  0  ~/.ssh/known_hosts
+-'  52  0  ~/.ssh/known_hosts
+-'  8  0  ~/.bash_profile
+-'  10  24  ~/.bash_profile
+-'  228  0  ~/.ssh/known_hosts
+-'  8  4  ~/.vimrc
+-'  40  2  ~/rtr.conf
+-'  1  0  ~/rtr.conf
+-'  2  0  ~/rtr.conf
+-'  9  0  ~/Downloads/cisco.vim
+-'  1  0  ~/Downloads/cisco.vim
+-'  1  63  ~/.vim/ftdetect/ciscoconfig.vim
+-'  1  0  ~/Downloads/templatefile-1.2/vim/plugin/templatefile.vim
+-'  82  0  ~/rtr.conf
+-'  2  0  ~/.vim/ftdetect/ciscoconfig.vim
+-'  129  0  ~/.vim/syntax/templatefile.vim
+-'  1  0  ~/.vim/syntax/templatefile.vim
+-'  1  0  ../ftdetect/ciscoconfig.vim
+-'  79  0  ~/rtr.conf
+-'  1  27  .vim/ftdetect/conf.vim
+-'  1  0  ~/.vim/syntax/ciscoconfig.vim
+-'  77  0  ~/.vim/syntax/ciscoconfig.vim
+-'  9  0  ~/.vimrc
+-'  21  0  ~/doc.kml
+-'  1  0  ~/doc.kml
+-'  16  0  ~/Dropbox/UOC/PIE/formulari_PIE.tex
+-'  1  0  ~/Dropbox/UOC/PIE/formulari_PIE.tex
+-'  15  0  ~/.ssh/known_hosts
+-'  195  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/known_hosts:198
+-'  111  0  ~/.gns3/gns3.ini
+-'  1  0  ~/.gns3/gns3.ini
+-'  18  59  ~/Dropbox/projectes/transcodig/transc/gnuplot.txt
+-'  1  0  ~/Dropbox/projectes/transcodig/transc/gnuplot.txt
+-'  1  0  ~/Dropbox/projectes/transcodig/transc/prova3.pl
+-'  98  0  ~/Dropbox/projectes/transcodig/transc/prova2.pl
+-'  1  0  ~/Dropbox/projectes/transcodig/transc/prova2.pl
+-'  98  1  ~/Dropbox/Projectes/transcodig/transc/transc_720.pl
+-'  55  57  ~/Dropbox/Projectes/transcodig/transc/transc_720.pl
+-'  60  0  ~/Dropbox/Projectes/transcodig/transc/transc_720.pl
+-'  1  0  ~/Dropbox/Projectes/transcodig/transc/transc_720.pl
+-'  3  0  ~/720.sh
+-'  7  0  ~/720.sh
+-'  1  0  ~/720.sh
+-'  107  0  ~/.ssh/known_hosts
+-'  266  0  ~/.ssh/known_hosts
+-'  288  0  ~/.ssh/known_hosts
+-'  65  1  ~/transc_720.pl
+-'  1  0  ~/transc_720.pl
+-'  71  41  ~/transc_720.pl
+-'  71  41  ~/transc_480.pl
+-'  1  0  ~/transc_480.pl
+-'  57  1  ~/transc_720.pl
+-'  1  0  ~/transc_
+-'  57  1  ~/transc_480.pl
+-'  1  0  ~/prova.txt
+-'  7  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  1  0  ~/.vim/.vimrc
+
+# Historial de marques en fitxers (de més a menys recent):
+
+> ~/prova.txt
+	"	1	0
+
+> /opt/local/share/vim/vim73/doc/windows.txt
+	"	1191	3
+
+> /opt/local/share/vim/vim73/doc/gui.txt
+	"	384	0
+
+> ~/.vimrc
+	"	7	0
+	^	1	29
+	.	1	28
+	+	3	15
+	+	4	16
+	+	9	19
+	+	11	0
+	+	10	0
+	+	8	21
+	+	7	4
+	+	8	4
+	+	27	0
+	+	36	0
+	+	1	28
+
+> ~/.vim/.vimrc
+	"	1	0
+
+> ~/.vim/prova-vim.txt
+	"	1	0
+
+> ~/stopwatch.pl
+	"	1	0
+	^	6	20
+	.	6	19
+	+	1	26
+	+	5	11
+	+	7	16
+	+	3	0
+	+	4	7
+	+	8	0
+	+	5	0
+	+	4	9
+	+	6	19
+
+> ~/st2.pl
+	"	1	29
+	^	1	30
+	.	1	29
+	+	27	0
+	+	26	0
+	+	25	0
+	+	24	0
+	+	23	0
+	+	22	0
+	+	21	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	15	0
+	+	14	0
+	+	13	0
+	+	12	0
+	+	11	0
+	+	10	0
+	+	9	0
+	+	8	0
+	+	7	0
+	+	3	0
+	+	1	27
+	+	2	0
+	+	1	29
+
+> ~/Dropbox/Projectes/transcodig/transc/transcode.pl
+	"	1	0
+	^	54	5
+	.	54	4
+	+	50	4
+	+	51	4
+	+	52	4
+	+	53	4
+	+	54	4
+
+> ~/Desktop/Track-031512 71212.kml
+	"	1	0
+
+> ~/Dropbox/Projectes/transcodig/transc/transc_v2.1.pl
+	"	1	0
+
+> ~/Dropbox/Projectes/transcodig/transc/transc_v3.pl
+	"	63	0
+
+> ~/.ssh/known_hosts
+	"	284	0
+	.	284	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	3	0
+	+	4	0
+	+	6	0
+	+	3	0
+	+	3	0
+	+	6	0
+	+	8	0
+	+	8	0
+	+	12	0
+	+	27	0
+	+	1	0
+	+	6	0
+	+	1	0
+	+	35	0
+	+	1	0
+	+	40	0
+	+	3	0
+	+	38	0
+	+	60	0
+	+	38	0
+	+	60	0
+	+	62	0
+	+	63	0
+	+	61	0
+	+	74	0
+	+	67	0
+	+	82	0
+	+	94	0
+	+	100	0
+	+	99	0
+	+	112	0
+	+	121	0
+	+	40	0
+	+	138	0
+	+	1	0
+	+	160	0
+	+	8	0
+	+	195	0
+	+	178	0
+	+	197	0
+	+	39	0
+	+	159	0
+	+	69	0
+	+	211	0
+	+	217	0
+	+	204	0
+	+	217	0
+	+	216	0
+	+	156	0
+	+	54	0
+	+	222	0
+	+	1	0
+	+	221	0
+	+	220	0
+	+	225	0
+	+	228	0
+	+	217	0
+	+	60	0
+	+	46	0
+	+	251	0
+	+	246	0
+	+	255	0
+	+	71	0
+	+	254	0
+	+	144	0
+	+	209	0
+	+	266	0
+	+	272	0
+	+	225	0
+	+	289	0
+	+	266	0
+	+	107	0
+	+	195	0
+	+	15	0
+	+	228	0
+	+	52	0
+	+	117	0
+	+	284	0
+
+> ~/web.pl
+	"	1	0
+
+> ~/.tmux.conf
+	"	1	0
+
+> ~/.zshrc
+	"	13	16
+	^	13	17
+	.	13	16
+	+	14	0
+	+	14	21
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	14	0
+	+	13	16
+
+> ~/whats.pl
+	"	14	60
+	^	13	61
+	.	13	60
+	+	4	10
+	+	12	0
+	+	11	26
+	+	12	0
+	+	13	60
+
+> ~/firma.html
+	"	2	3
+	^	2	4
+	.	2	3
+	+	2	3
+
+> /private/etc/passwd
+	"	1	0
+
+> ~/.zsh/zshrc.d/101_environment.keybindings.zshall.zsh
+	"	68	4
+
+> ~/.zshenv
+	"	1	0
+
+> ~/.zsh/zshrc.d/111_environment.options.zsh
+	"	31	0
+
+> ~/.zsh/zshrc.d/020_aliases.main.zsh
+	"	1	0
+
+> ~/ip.txt
+	"	18	11
+	^	18	12
+	.	18	0
+	+	18	0
+
+> ~/Documents/Repositoris/network/trunk/t_folder/t1.pl
+	"	17	16
+	^	17	17
+	.	17	16
+	+	1	5
+	+	83	45
+	+	17	16
+
+> ~/.bash_profile
+	"	33	0
+	^	33	1
+	.	33	0
+	+	1	0
+	+	4	29
+	+	21	0
+	+	11	11
+	+	11	87
+	+	11	0
+	+	11	100
+	+	11	0
+	+	11	10
+	+	11	187
+	+	11	0
+	+	7	20
+	+	11	0
+	+	7	19
+	+	11	0
+	+	13	37
+	+	22	7
+	+	7	18
+	+	18	36
+	+	18	41
+	+	23	0
+	+	24	0
+	+	25	0
+	+	23	6
+	+	23	0
+	+	18	0
+	+	14	0
+	+	16	42
+	+	14	30
+	+	3	0
+	+	11	0
+	+	11	100
+	+	1	32
+	+	32	0
+	+	33	60
+	+	8	0
+	+	10	0
+	+	8	0
+	+	34	0
+	+	33	0
+
+> /private/etc/bashrc~orig
+	"	1	0
+
+> /private/etc/bashrc
+	"	1	0
+
+> ~/b2z.pl
+	"	87	4
+
+> ~/b2z.sh
+	"	103	8
+	^	103	9
+	.	103	8
+	+	103	8
+
+> ~/rtr.conf
+	"	40	2
+	^	2	0
+	.	2	0
+	+	2	0
+
+> ~/Downloads/cisco.vim
+	"	9	0
+
+> ~/.vim/ftdetect/ciscoconfig.vim
+	"	1	63
+	^	1	64
+	.	1	63
+	+	1	63
+
+> ~/Downloads/templatefile-1.2/vim/plugin/templatefile.vim
+	"	1	0
+
+> ~/.vim/syntax/templatefile.vim
+	"	129	0
+
+> ../ftdetect/ciscoconfig.vim
+	"	1	0
+
+> ~/.vim/syntax/ciscoconfig.vim
+	"	1	0
+	^	80	31
+	.	6	0
+	+	80	16
+	+	6	0
+
+> .vim/ftdetect/conf.vim
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
+
+> /opt/local/share/vim/vim73/doc/syntax.txt
+	"	4023	0
+
+> ~/doc.kml
+	"	21	0
+
+> ~/Dropbox/UOC/PIE/formulari_PIE.tex
+	"	16	0
+	.	41	0
+	+	41	0
+
+> ~/.ssh/known_hosts:198
+	"	1	0
+
+> ~/.gns3/gns3.ini
+	"	111	0
+
+> ~/Dropbox/projectes/transcodig/transc/gnuplot.txt
+	"	18	59
+	^	18	60
+	.	18	0
+	+	18	0
+
+> ~/Dropbox/projectes/transcodig/transc/prova3.pl
+	"	1	0
+	^	1	873
+	.	1	873
+	+	1	873
+
+> ~/Dropbox/projectes/transcodig/transc/prova2.pl
+	"	98	0
+	.	53	0
+	+	53	0
+
+> ~/Dropbox/Projectes/transcodig/transc/transc_720.pl
+	"	98	1
+	^	55	58
+	.	55	57
+	+	36	62
+	+	55	57
+
+> ~/720.sh
+	"	3	0
+	^	4	19
+	.	7	0
+	+	7	0
+	+	4	18
+	+	7	0
+
+> ~/transc_720.pl
+	"	65	1
+	^	71	91
+	.	71	41
+	+	26	15
+	+	71	41
+
+> ~/transc_480.pl
+	"	71	41
+	^	71	70
+	.	71	41
+	+	71	49
+	+	70	0
+	+	71	41
+
+> ~/transc_
+	"	1	0
+
+> ~/transc.pl
+	"	1	0
+	^	71	92
+	.	71	91
+	+	26	15
+	+	70	58
+	+	19	17
+	+	23	58
+	+	19	52
+	+	62	1
+	+	81	12
+	+	50	20
+	+	36	21
+	+	50	17
+	+	51	1
+	+	52	1
+	+	53	1
+	+	98	0
+	+	70	0
+	+	70	14
+	+	70	108
+	+	77	41
+	+	78	40
+	+	83	29
+	+	84	33
+	+	70	0
+	+	36	60
+	+	41	2
+	+	41	0
+	+	70	24
+	+	68	144
+	+	70	22
+	+	68	39
+	+	68	142
+	+	50	1
+	+	50	0
+	+	56	0
+	+	58	0
+	+	56	28
+	+	50	0
+	+	48	0
+	+	59	0
+	+	40	31
+	+	41	0
+	+	56	1
+	+	58	23
+	+	70	0
+	+	58	23
+	+	56	1
+	+	50	1
+	+	56	28
+	+	55	27
+	+	57	30
+	+	58	24
+	+	59	0
+	+	58	24
+	+	59	25
+	+	71	0
+	+	26	15
+	+	69	119
+	+	69	0
+	+	71	45
+	+	26	15
+	+	71	91
+
+> ~/videosmob/originals/transc.pl
+	"	1	0
+
+> ~/videosmob/720.sh
+	"	1	0
+	^	7	10
+	.	3	0
+	+	7	8
+	+	3	0
+
+> ~/Downloads/cakephp-cakephp-41cd0e4/svn-commit.tmp
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/svn-commit.tmp
+	"	3	0
+	^	3	0
+	.	3	0
+	+	2	7
+	+	3	0
+
+> ~/dumps/Dump_moodle_ies_20110311.sql
+	"	1	14
+	^	1	15
+	.	2	14
+	+	1	41
+	+	2	14
+
+> ~/.ec2/ec2-keypair
+	"	23	28
+	^	23	29
+	.	23	0
+	+	23	0
+
+> ~/201102200000.1.cm_hourly_stats
+	"	4	0
+
+> /Library/WebServer/xmoovStream/xmoovStream_includes/xmoovStream.class.php
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> /Library/WebServer/xmoovStream/xmoovStream_includes/xsConfig.php
+	"	1	0
+
+> /Library/WebServer/Documents/xvideo/index.php
+	"	1	0
+
+> ~/pas.txt
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/pass.txt
+	"	1	0
+
+> ~/named81.conf
+	"	1	0
+	.	703	0
+	+	677	0
+	+	679	0
+	+	703	0
+
+> ~/named.conf
+	"	561	0
+	^	360	0
+	.	361	0
+	+	2	0
+	+	171	0
+	+	170	1
+	+	172	1
+	+	168	2
+	+	501	0
+	+	508	0
+	+	506	0
+	+	504	0
+	+	506	0
+	+	505	3
+	+	500	0
+	+	499	56
+	+	370	0
+	+	171	0
+	+	161	0
+	+	161	0
+	+	215	0
+	+	360	0
+	+	360	0
+	+	339	0
+	+	361	0
+
+> ~/Documents/UOC/pac-repo/rtr-casa/manual.txt
+	"	1	83
+	^	1	84
+	.	1	30
+	+	1	30
+
+> /System/Library/LaunchDaemons/tftp.plist
+	"	16	8
+	^	15	8
+	.	16	0
+	+	15	44
+	+	15	88
+	+	15	0
+	+	15	0
+	+	16	7
+	+	16	0
+	+	15	49
+	+	16	0
+
+> ~/octabod/find_status.pl
+	"	1	0
+
+> ~/octabod/votar.pl
+	"	75	0
+	^	53	1
+	.	39	0
+	+	80	0
+	+	1	0
+	+	80	0
+	+	79	221
+	+	26	0
+	+	25	0
+	+	2	0
+	+	39	51
+	+	77	91
+	+	41	41
+	+	39	32
+	+	41	42
+	+	45	39
+	+	61	0
+	+	62	0
+	+	62	7
+	+	62	21
+	+	39	48
+	+	41	100
+	+	41	0
+	+	43	0
+	+	39	1
+	+	39	0
+	+	39	39
+	+	42	3
+	+	39	1
+	+	39	5
+	+	39	0
+	+	39	97
+	+	45	1
+	+	48	0
+	+	47	0
+	+	48	35
+	+	49	36
+	+	39	37
+	+	39	0
+	+	35	5
+	+	39	69
+	+	62	0
+	+	61	0
+	+	62	0
+	+	39	33
+	+	52	0
+	+	53	39
+	+	51	50
+	+	53	0
+	+	39	0
+
+> ~/octabod/robocop.pl
+	"	1	0
+	^	1	20
+	.	1	20
+	+	55	0
+	+	2	0
+	+	1	20
+
+> ~/octabod/hits.pl
+	"	1	0
+	^	8	44
+	.	8	33
+	+	7	0
+	+	8	7
+	+	9	0
+	+	8	33
+
+> ~/octabod/agent_id.pl
+	"	17	8
+	.	6	0
+	+	6	0
+
+> ~/octabod/agent_id
+	"	179	1
+	^	179	2
+	.	179	0
+	+	179	0
+
+> ~/hits.pl
+	"	146	59
+	^	311	1
+	.	30	0
+	+	311	0
+	+	30	0
+
+> ~/messages.1
+	"	146	0
+
+> ~/messages.3
+	"	2090	0
+
+> ~/messages.2
+	"	3035	0
+
+> /Applications/MacPorts/Vim.app/Contents/Resources/vim/runtime/doc/syntax.txt
+	"	12	48
+
+> /Applications/MacPorts/Vim.app/Contents/Resources/vim/runtime/doc/syntax.txt.html
+	"	2295	0
+	^	2295	0
+	.	2294	4
+	+	2195	4
+	+	2196	89
+	+	2197	112
+	+	2198	4
+	+	2199	95
+	+	2200	89
+	+	2201	110
+	+	2202	4
+	+	2203	4
+	+	2204	521
+	+	2205	4
+	+	2206	96
+	+	2207	112
+	+	2208	98
+	+	2209	103
+	+	2210	113
+	+	2211	63
+	+	2212	4
+	+	2213	114
+	+	2214	105
+	+	2215	4
+	+	2216	116
+	+	2217	105
+	+	2218	4
+	+	2219	122
+	+	2220	105
+	+	2221	4
+	+	2222	101
+	+	2223	82
+	+	2224	4
+	+	2225	4
+	+	2226	469
+	+	2227	4
+	+	2228	102
+	+	2229	111
+	+	2230	219
+	+	2231	124
+	+	2232	106
+	+	2233	4
+	+	2234	98
+	+	2235	56
+	+	2236	4
+	+	2237	4
+	+	2238	529
+	+	2239	4
+	+	2240	102
+	+	2241	164
+	+	2242	83
+	+	2243	104
+	+	2244	99
+	+	2245	123
+	+	2246	67
+	+	2247	4
+	+	2248	4
+	+	2249	529
+	+	2250	4
+	+	2251	88
+	+	2252	4
+	+	2253	113
+	+	2254	112
+	+	2255	102
+	+	2256	147
+	+	2257	4
+	+	2258	107
+	+	2259	36
+	+	2260	92
+	+	2261	4
+	+	2262	99
+	+	2263	153
+	+	2264	129
+	+	2265	4
+	+	2266	105
+	+	2267	36
+	+	2268	102
+	+	2269	50
+	+	2270	4
+	+	2271	93
+	+	2272	92
+	+	2273	4
+	+	2274	109
+	+	2275	36
+	+	2276	110
+	+	2277	135
+	+	2278	46
+	+	2279	4
+	+	2280	102
+	+	2281	133
+	+	2282	4
+	+	2283	113
+	+	2284	36
+	+	2285	124
+	+	2286	86
+	+	2287	4
+	+	2288	88
+	+	2289	91
+	+	2290	4
+	+	2291	104
+	+	2292	36
+	+	2293	143
+	+	2294	4
+
+> /opt/local/share/vim/vim72/doc/syntax.txt
+	"	366	0
+
+> /opt/local/share/vim/vim72/doc/syntax.txt.html
+	"	59	0
+	^	2	0
+	.	1	102
+	+	4477	101
+	+	4478	73
+	+	4479	151
+	+	4480	89
+	+	4481	216
+	+	4482	4
+	+	4483	135
+	+	4484	75
+	+	4485	70
+	+	4486	123
+	+	4487	123
+	+	4488	51
+	+	4489	70
+	+	4490	84
+	+	4491	84
+	+	4492	52
+	+	4493	313
+	+	4494	4
+	+	4495	209
+	+	4496	232
+	+	4497	76
+	+	4498	4
+	+	4499	110
+	+	4500	4
+	+	4501	76
+	+	4502	76
+	+	4503	4
+	+	4504	123
+	+	4505	48
+	+	4506	4
+	+	4507	97
+	+	4508	203
+	+	4509	203
+	+	4510	203
+	+	4511	203
+	+	4512	203
+	+	4513	203
+	+	4514	203
+	+	4515	203
+	+	4516	203
+	+	4517	203
+	+	4518	203
+	+	4519	203
+	+	4520	203
+	+	4521	203
+	+	4522	203
+	+	4523	203
+	+	4524	181
+	+	4525	4
+	+	4526	100
+	+	4527	111
+	+	4528	85
+	+	4529	4
+	+	4530	102
+	+	4531	141
+	+	4532	69
+	+	4533	36
+	+	4534	502
+	+	4535	107
+	+	4536	99
+	+	4537	42
+	+	4538	130
+	+	4539	121
+	+	4540	121
+	+	4541	133
+	+	4542	4
+	+	4543	462
+	+	4544	97
+	+	4545	82
+	+	4546	75
+	+	4547	69
+	+	4548	92
+	+	4549	88
+	+	4550	51
+	+	4551	69
+	+	4552	89
+	+	4553	88
+	+	4554	52
+	+	4555	313
+	+	4556	4
+	+	4557	543
+	+	4558	96
+	+	4559	114
+	+	4560	158
+	+	4561	82
+	+	4562	124
+	+	4563	124
+	+	4564	36
+	+	4565	414
+	+	4566	111
+	+	4567	99
+	+	4568	92
+	+	4569	138
+	+	4570	138
+	+	4571	102
+	+	4572	73
+	+	4573	85
+	+	4574	4
+	+	4575	65
+	+	1	102
+
+> /private/etc/apache2/httpd.conf
+	"	1	0
+
+> /private/etc/apache2/httpd.conf.html
+	"	193	0
+	^	2	0
+	.	1	102
+	+	394	105
+	+	395	58
+	+	396	115
+	+	397	144
+	+	398	58
+	+	399	84
+	+	400	4
+	+	401	96
+	+	402	81
+	+	403	4
+	+	404	58
+	+	405	128
+	+	406	58
+	+	407	112
+	+	408	145
+	+	409	58
+	+	410	82
+	+	411	89
+	+	412	52
+	+	413	4
+	+	414	34
+	+	415	108
+	+	416	114
+	+	417	101
+	+	418	34
+	+	419	74
+	+	420	4
+	+	421	34
+	+	422	86
+	+	423	89
+	+	424	34
+	+	425	49
+	+	426	90
+	+	427	65
+	+	428	91
+	+	429	97
+	+	430	34
+	+	431	4
+	+	432	34
+	+	433	94
+	+	434	92
+	+	435	103
+	+	436	85
+	+	437	93
+	+	438	57
+	+	439	34
+	+	440	48
+	+	441	52
+	+	442	4
+	+	443	61
+	+	444	34
+	+	445	111
+	+	446	108
+	+	447	104
+	+	448	45
+	+	449	4
+	+	450	72
+	+	451	112
+	+	452	4
+	+	453	64
+	+	454	98
+	+	455	4
+	+	456	59
+	+	457	118
+	+	458	4
+	+	459	52
+	+	460	118
+	+	461	4
+	+	462	56
+	+	463	170
+	+	464	4
+	+	465	79
+	+	466	84
+	+	467	4
+	+	468	48
+	+	469	86
+	+	470	4
+	+	471	80
+	+	472	115
+	+	473	4
+	+	474	80
+	+	475	83
+	+	476	4
+	+	477	59
+	+	478	87
+	+	479	4
+	+	480	63
+	+	481	83
+	+	482	34
+	+	483	86
+	+	484	135
+	+	485	108
+	+	486	34
+	+	487	128
+	+	488	122
+	+	489	122
+	+	490	52
+	+	491	4
+	+	492	104
+	+	1	102
+
+> ~/ssh-copy-id.sh
+	"	1	0
+
+> ~/ssh-copy-id.sh.html
+	"	4	0
+	^	2	0
+	.	1	102
+	+	8	6
+	+	9	42
+	+	10	4
+	+	11	96
+	+	12	4
+	+	13	66
+	+	14	464
+	+	15	300
+	+	16	168
+	+	17	37
+	+	18	4
+	+	19	73
+	+	20	410
+	+	21	311
+	+	22	168
+	+	23	37
+	+	24	4
+	+	25	103
+	+	26	55
+	+	27	489
+	+	1	102
+
+> ~/Library/Mail Downloads/inventari.txt
+	"	22	165
+	.	1	0
+	+	1	0
+
+> ~/Documents/Repositoris/configs/repos-web/view/log.xsl
+	"	1	0
+	^	28	27
+	.	28	26
+	+	28	26
+
+> ~/Documents/Repositoris/configs/repos-web/view/repos.xsl
+	"	64	14
+	^	34	27
+	.	34	35
+	+	34	35
+
+> /private/etc/profile
+	"	1	0
+	^	3	66
+	.	3	51
+	+	3	51
+
+> ~/Downloads/VMicons/icons.txt
+	"	1	0
+
+> ~/Documents/Configuracions/configs/cisco_conf/trunk/inventory.pl
+	"	118	0
+	^	68	20
+	.	68	19
+	+	68	19
+
+> ~/Documents/Configuracions/configs/cisco_conf/trunk/backup.pl
+	"	72	1
+
+> /Volumes/MAC HD 2/Downloads/index.php
+	"	287	42
+	^	287	43
+	.	287	42
+	+	287	42
+
+> /Volumes/MAC
+	"	1	0
+
+> ~/router.conf
+	"	14	45
+	^	14	46
+	.	14	32
+	+	155	0
+	+	78	0
+	+	14	32
+
+> ~/cpwrk.pl
+	"	1	14
+	^	1	15
+	.	1	2
+	+	23	3
+	+	1	2
+
+> ~/Documents/Configuracions/configs/cisco_conf/trunk/files/sw-rack5.car.loc.cfg
+	"	1	0
+
+> ~/t_folder/t1.pl
+	"	1	0
+	^	15	18
+	.	16	22
+	+	12	0
+	+	12	0
+	+	10	0
+	+	12	20
+	+	11	0
+	+	9	0
+	+	11	22
+	+	13	0
+	+	20	14
+	+	90	40
+	+	16	22
+
+> ~/t_folder/routers.txt
+	"	4	0
+	.	4	0
+	+	4	0
